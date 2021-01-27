@@ -3,7 +3,7 @@
 
 /**
  * getfactor - factorizes and prints number
- * @number: number to factor
+ * @number: number to factor, turns to num
  *
  * Return: void
  */
